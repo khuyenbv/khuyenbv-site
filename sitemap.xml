@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Trang chủ -->
+  <url>
+    <loc>https://www.khuyenbv.xyz/</loc>
+    <lastmod>2024-05-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Bài viết: Giới thiệu -->
+  <url>
+    <loc>https://www.khuyenbv.xyz/gioi-thieu</loc>
+    <lastmod>2024-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Bài viết: Chia sẻ kiến thức -->
+  <url>
+    <loc>https://www.khuyenbv.xyz/share</loc>
+    <lastmod>2024-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Bài viết: AI -->
+  <url>
+    <loc>https://www.khuyenbv.xyz/ai</loc>
+    <lastmod>2024-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
